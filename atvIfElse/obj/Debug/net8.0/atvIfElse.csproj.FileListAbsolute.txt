@@ -1,0 +1,14 @@
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\bin\Debug\net8.0\atvIfElse.exe
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\bin\Debug\net8.0\atvIfElse.deps.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\bin\Debug\net8.0\atvIfElse.runtimeconfig.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\bin\Debug\net8.0\atvIfElse.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\bin\Debug\net8.0\atvIfElse.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\atvIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\atvIfElse.AssemblyInfoInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\atvIfElse.AssemblyInfo.cs
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\atvIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\atvIfElse.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\refint\atvIfElse.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\atvIfElse.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\atvIfElse.genruntimeconfig.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\atvIfElse\obj\Debug\net8.0\ref\atvIfElse.dll
