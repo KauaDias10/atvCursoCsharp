@@ -1,0 +1,15 @@
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\bin\Debug\net8.0\matrizes.exe
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\bin\Debug\net8.0\matrizes.deps.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\bin\Debug\net8.0\matrizes.runtimeconfig.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\bin\Debug\net8.0\matrizes.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\bin\Debug\net8.0\matrizes.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.AssemblyInfoInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.AssemblyInfo.cs
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.sourcelink.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\refint\matrizes.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\matrizes.genruntimeconfig.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\matrizes\obj\Debug\net8.0\ref\matrizes.dll

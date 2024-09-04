@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\atvIfElse\\matrizes\\matrizes.csproj": {}
+    "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\matrizes\\matrizes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\atvIfElse\\matrizes\\matrizes.csproj": {
+    "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\matrizes\\matrizes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\atvIfElse\\matrizes\\matrizes.csproj",
+        "projectUniqueName": "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\matrizes\\matrizes.csproj",
         "projectName": "matrizes",
-        "projectPath": "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\atvIfElse\\matrizes\\matrizes.csproj",
+        "projectPath": "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\matrizes\\matrizes.csproj",
         "packagesPath": "C:\\Users\\Kaua.SCMPM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\atvIfElse\\matrizes\\obj\\",
+        "outputPath": "C:\\Users\\Kaua.SCMPM\\Documents\\c-sharp\\CsharpProjects\\matrizes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaua.SCMPM\\AppData\\Roaming\\NuGet\\NuGet.Config"
