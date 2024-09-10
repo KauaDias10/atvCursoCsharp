@@ -1,0 +1,15 @@
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.AssemblyInfoInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.AssemblyInfo.cs
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.csproj.CoreCompileInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.sourcelink.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\bin\Debug\net8.0\atv.exe
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\bin\Debug\net8.0\atv.deps.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\bin\Debug\net8.0\atv.runtimeconfig.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\bin\Debug\net8.0\atv.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\bin\Debug\net8.0\atv.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\refint\atv.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\atv.genruntimeconfig.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\exercicosForeachIfElse\atv\obj\Debug\net8.0\ref\atv.dll
