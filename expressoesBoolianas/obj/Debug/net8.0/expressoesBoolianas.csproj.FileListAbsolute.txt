@@ -1,0 +1,15 @@
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\bin\Debug\net8.0\expressoesBoolianas.exe
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\bin\Debug\net8.0\expressoesBoolianas.deps.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\bin\Debug\net8.0\expressoesBoolianas.runtimeconfig.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\bin\Debug\net8.0\expressoesBoolianas.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\bin\Debug\net8.0\expressoesBoolianas.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.AssemblyInfoInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.AssemblyInfo.cs
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.csproj.CoreCompileInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.sourcelink.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\refint\expressoesBoolianas.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\expressoesBoolianas.genruntimeconfig.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\expressoesBoolianas\obj\Debug\net8.0\ref\expressoesBoolianas.dll
