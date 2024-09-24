@@ -1,0 +1,15 @@
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\bin\Debug\net8.0\blocoCod.exe
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\bin\Debug\net8.0\blocoCod.deps.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\bin\Debug\net8.0\blocoCod.runtimeconfig.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\bin\Debug\net8.0\blocoCod.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\bin\Debug\net8.0\blocoCod.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.AssemblyInfoInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.AssemblyInfo.cs
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.csproj.CoreCompileInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.sourcelink.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\refint\blocoCod.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\blocoCod.genruntimeconfig.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\blocoCod\obj\Debug\net8.0\ref\blocoCod.dll

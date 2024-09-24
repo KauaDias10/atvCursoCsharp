@@ -1,0 +1,15 @@
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\bin\Debug\net8.0\switch-case.exe
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\bin\Debug\net8.0\switch-case.deps.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\bin\Debug\net8.0\switch-case.runtimeconfig.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\bin\Debug\net8.0\switch-case.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\bin\Debug\net8.0\switch-case.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfo.cs
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.sourcelink.json
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\refint\switch-case.dll
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.pdb
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\switch-case.genruntimeconfig.cache
+C:\Users\Kaua.SCMPM\Documents\c-sharp\CsharpProjects\switch-case\obj\Debug\net8.0\ref\switch-case.dll
