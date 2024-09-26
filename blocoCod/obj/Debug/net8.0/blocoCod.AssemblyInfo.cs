@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("blocoCod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a07702175367f88d7e5084f21ceb07365c7b382d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+619d600a6eca7bd5e284150003e5b6f408154d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("blocoCod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("blocoCod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
